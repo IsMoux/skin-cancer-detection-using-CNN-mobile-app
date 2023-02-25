@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/one" android:title="Carcinome basocellulaire"/>
+    <item android:id="@+id/two" android:title="Mélanome "/>
+    <item android:id="@+id/three" android:title="Dermatofibrome "/>
+    <item android:id="@+id/four" android:title="Lésions bénignes de type kératose "/>
+    <item android:id="@+id/five" android:title="Kératose actinique "/>
+    <item android:id="@+id/six" android:title="Naevus mélanocytaires "/>
+    <item android:id="@+id/seven" android:title="Le granulome pyogénique "/>
+    <item android:id="@+id/eight" android:title="la règle ABCDE"/>
+
+</menu>
